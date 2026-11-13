@@ -51,5 +51,5 @@ Criar uma **plataforma elétrica modular**, servindo de base para estudos e expe
 
 ---
 
-© 2025 eWolf – Engenharia e Inovação Aberta  
+© 2026 eWolf – Engenharia e Inovação Aberta  
 _Criar, desenvolver e inovar de forma eficiente e sustentabvel._
